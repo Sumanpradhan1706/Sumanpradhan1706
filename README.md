@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW15YnR0bnhuOWhlc21xcWR3bWdjamVvdWtyMzhlZ216cDN3bmVubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/izVaBHDd8FThK/giphy.gif" width="400" />
 </p>
-
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Frontend+Developer;Aspiring+Data+Scientist;Tech+Enthusiast" alt="Typing SVG"/>
+</div>
 ---
 
 ### 👨‍💻 About Me
