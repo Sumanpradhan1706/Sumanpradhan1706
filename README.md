@@ -1,75 +1,116 @@
 <h1 align="center">Hi there, I'm Suman Pradhan 👋</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Frontend Developer & Aspiring Data Scientist from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhjeW80bGg2b290c2IyZjFycXBhcXhwZnRtYXp6OWw1dTJyNXRkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="400" />
 </p>
+
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Frontend+Developer;Aspiring+Data+Scientist;Tech+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Frontend+Developer;Aspiring+Data+Scientist;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG"/>
 </div>
+
 ---
 
 ### 👨‍💻 About Me
 
-I'm a student at JIS College of Engineering, diving deep into the world of web development. My focus is on building beautiful, responsive, and user-friendly web applications.
+I'm a student at **JIS College of Engineering**, diving deep into the world of **Web Development** and **Data Science**.  
+I love building beautiful, responsive, and interactive digital experiences that make a difference.
 
-- 🔭 I’m currently focused on mastering React and Tailwind CSS.
-- 🌱 I’m always learning and exploring new technologies in the frontend ecosystem.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 📫 How to reach me: pradhan.1.7.2006@gmail.com
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently focused on mastering **React** and **Tailwind CSS**  
+- 🌱 I’m learning and exploring **AI, Data Science**, and **Full Stack Development**  
+- 👯 I’m open to collaborating on innovative open-source projects  
+- 📫 Reach me at: **pradhan.1.7.2006@gmail.com**  
+- 😄 Pronouns: **He/Him**
 
 ---
 
-### 🚀 Languages and Tools
+## ⚙️ Tech Stack
 
-Here are the technologies I work with:
-
+### 💻 Programming Languages
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+### 🧩 Frontend Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="ReactJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40" alt="ThreeJS"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
+</p>
+
+### ⚙️ Backend Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS"/>
+</p>
+
+### 🧠 Data Science & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-
-You can find me on the following platforms:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/suman-pradhan-8a0b00313" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suman Pradhan LinkedIn" height="30" width="40" />
-</a>
-<a href="https://x.com/pradhan_su85851" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Suman Pradhan Twitter" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+## 🔗 Connect With Me
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanpradhan1706&show_icons=true&locale=en&theme=tokyonight" alt="sumanpradhan1706" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumanpradhan1706&layout=compact&locale=en&theme=tokyonight" alt="sumanpradhan1706" />
+  <a href="https://www.linkedin.com/in/suman-pradhan-8a0b00313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/pradhan_su85851" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:pradhan.1.7.2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sumanpradhan1706" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanpradhan1706&show_icons=true&theme=tokyonight&hide_border=true" alt="Suman Pradhan GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanpradhan1706&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumanpradhan1706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+⭐ **“Code, Learn, and Create Impact.”**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=+Thank+You+for+Visiting+My+Profile+;Have+a+Great+Day!+😊" alt="Thank You Animation"/>
+</div>
